@@ -3,6 +3,16 @@
 
 <p align="left"> <a href="https://twitter.com/yasin_bm76" target="blank"><img src="https://img.shields.io/twitter/follow/yasin_bm76?logo=twitter&style=for-the-badge" alt="yasin_bm76" /></a> </p>
 
+- 🔭 I’m currently working on **Blockchain technology and Model Predictive control**
+
+- 🌱 I’m currently learning **Python, Solidity and Matlab**
+
+- 👨‍💻 All of my projects are available at [https://yasinbahremola.ir](https://yasinbahremola.ir)
+
+- 📝 I regularly write articles on [https://learn.yasinbahremola.ir](https://learn.yasinbahremola.ir)
+
+- 📫 How to reach me **ybahremola@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yasin_bm76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasin_bm76" height="30" width="40" /></a>
