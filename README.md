@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/yasin_bm76" target="blank"><img src="https://img.shields.io/twitter/follow/yasin_bm76?logo=twitter&style=for-the-badge" alt="yasin_bm76" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain technology and Model Predictive control**
+- 🔭 I’m currently working on **Blockchain technology, Model Predictive control and Adaptive Control**
 
 - 🌱 I’m currently learning **Python, Solidity and Matlab**
 
