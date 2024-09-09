@@ -26,3 +26,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasinbm&show_icons=true&locale=en&layout=compact" alt="yasinbm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinbm&show_icons=true&locale=en" alt="yasinbm" /></p>
+
+<!-- Github Stats -->
+<div>
+  <img width="41%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinbm&theme=vue-dark&show_icons=true&locale=en&layout=compact&hide_border=true" alt="yasinbm most used languages" />
+  <img width="57%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasinbm&theme=vue-dark&hide_border=true" alt="yasinbm contributions" />
+</div>
