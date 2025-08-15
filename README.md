@@ -69,19 +69,6 @@
 
 ---
 
-### 🚀 Highlighted Projects
-<p align="left">
-  <!-- Replace <REPO1> and <REPO2> with your repo names -->
-  <a href="https://github.com/yasinbm/<REPO1>">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinbm&repo=<REPO1>&theme=vue-dark&hide_border=true" alt="Pinned Project 1"/>
-  </a>
-  <a href="https://github.com/yasinbm/<REPO2>">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasinbm&repo=<REPO2>&theme=vue-dark&hide_border=true" alt="Pinned Project 2"/>
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 <div align="center">
 
@@ -103,13 +90,3 @@
 </div>
 
 ---
-
-### 📝 Latest Posts
-<!-- BLOG-POST-LIST:START -->
-- (Latest posts will appear here)
-<!-- BLOG-POST-LIST:END -->
-
-### 🎬 Latest Videos
-<!-- YOUTUBE:START -->
-- (Latest videos will appear here)
-<!-- YOUTUBE:END -->
