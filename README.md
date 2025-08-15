@@ -22,7 +22,7 @@
 
 ### 🔭 About Me
 - Working on **Blockchain Technology**, **Model Predictive Control**, and **Adaptive Control**  
-- Currently learning **Python**, **Solidity**, and **Matlab**  
+- Currently learning **Python**, **C++**, and **Matlab**  
 - I write articles at [learn.yasinbahremola.ir](https://learn.yasinbahremola.ir)  
 - All my projects are available on [yasinbahremola.ir](https://yasinbahremola.ir)  
 
