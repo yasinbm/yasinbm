@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding animation" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Yasin Bahremola</h1>
 <h3 align="center">Electrical Engineer | AmirKabir University</h3>
 
@@ -48,7 +53,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" height="40"/>
 </p>
 
 ---
